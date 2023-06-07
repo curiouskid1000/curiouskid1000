@@ -1,4 +1,5 @@
-### Hi 👋, I am Yash
+<h1 align="center">Hi 👋, I'm Amin Shavani</h1>
+<h3 align="center">A passionate Web Developer </h3>
 
 # 💫 About Me:
 🔭 I’m currently working on Web development<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with javascript library<br>🌱 I’m currently learning React<br>💬 Ask me about gaming and digital art<br>⚡ Fun fact Falcon is the fastest bird 
