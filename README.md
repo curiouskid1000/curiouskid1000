@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amin Shavani</h1>
+<h1 align="center">Hi 👋, I'm Yash </h1>
 <h3 align="center">A passionate Web Developer </h3>
 
 # 💫 About Me:
