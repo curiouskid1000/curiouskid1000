@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yash </h1>
-<h3 align="center">A passionate Web Developer </h3>
+<h3 align="center">A passionate Data Analyst</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Web development<br>👯 I’m looking to collaborate on web development projects.<br>🤝 I’m looking for help with javascript library<br>🌱 I’m currently learning React<br>💬 Ask me about gaming and digital art<br>⚡ Fun fact Falcon is the fastest bird 
+🔭 I recently completed my internship in data analysis<br>👯 I’m looking for data analytics job.🌱 I’m currently learning Machine Learning<br>💬 Ask me about gaming and digital art<br>⚡ Fun fact Falcon is the fastest bird 
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yashmishra243) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-rishi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@yashm2966) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Python](https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fi0.wp.com%2Fjunilearning.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fpython-programming-language.webp%3Ffit%3D1920%252C1920%26ssl%3D1&imgrefurl=https%3A%2F%2Fjunilearning.com%2Fblog%2Fguide%2Fwhat-is-python-101-for-students%2F&docid=qRxpxiqPRXCuJM&tbnid=fPDSxZuCSjd-gM&vet=12ahUKEwiJ0YOCzOCLAxVzUWwGHbiFAMMQM3oECBsQAA..i&w=1920&h=1920&hcb=2&ved=2ahUKEwiJ0YOCzOCLAxVzUWwGHbiFAMMQM3oECBsQAA) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=curiouskid1000&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=curiouskid1000&theme=tokyonight&hide_border=false)<br/>
